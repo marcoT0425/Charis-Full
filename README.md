@@ -5,3 +5,6 @@ Bitstream Charter is a serif typeface designed by Matthew Carter in 1987 for Bit
 
 https://en.wikipedia.org/wiki/Bitstream_Charter
 https://en.wikipedia.org/wiki/Charis_SIL
+
+This Version:
+Finished Cyrillic Extended-C and Latin Extended-D
